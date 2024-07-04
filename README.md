@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cckyasin
 - 👀 I’m interested in Embedded Systems
-- 🌱 I’m currently learning C/C++, FreeRTOS, ASCII
+- 🌱 I’m currently learning STM32, C/C++, FreeRTOS, ASCII
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me cck.yasin99@gmail.com
 - 😄 Pronouns: ...
